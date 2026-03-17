@@ -34,7 +34,7 @@ MediaPipe
 
 Clone the repository:
 
-git clone https://github.com/your-username/hand-gesture-calculator.git
+git clone https://github.com/priya16150/hand-gesture-calculator.git
 cd hand-gesture-calculator
 
 Create virtual environment (optional but recommended):
